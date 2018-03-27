@@ -9,6 +9,7 @@ How to change the remote repository to an empty GitHub repository in Eclipse?
 - Expand your project repository icon 
 - Expand `Remotes` icon 
 - Right-click `origin` icon
-- Select `Configure Push...` 
+- Select `Configure Push...`
+- ![Screenshot](git_screen.png) 
 - Change the URI to point to the new GitHub repository
 - Click `Save and Push`
